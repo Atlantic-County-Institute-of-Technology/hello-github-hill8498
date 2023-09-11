@@ -1,4 +1,4 @@
-# :wave: The Branch of GitLab 
+# :wave: The Basics of GitLab 
 
 ##  Course overview and learning branch 
 
